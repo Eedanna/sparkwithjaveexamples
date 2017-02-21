@@ -1,0 +1,12 @@
+com\spark\java\examples\WordCount$3.class
+com\spark\java\examples\WordCount.class
+com\spark\java\examples\AggregationExample.class
+com\spark\java\examples\WordCount$2.class
+com\spark\java\examples\GroupByExample.class
+com\spark\java\examples\Java8WordCount.class
+com\spark\java\utils\Utils.class
+com\spark\java\examples\WordCount$1.class
+com\spark\java\examples\JSONReader$ParseJson.class
+com\spark\java\examples\ReduceByKeyExample.class
+com\spark\java\examples\JSONReader.class
+com\spark\java\examples\JSONReader$WriteJson.class
